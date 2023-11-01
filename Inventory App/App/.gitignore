@@ -120,6 +120,3 @@ fabric.properties
 
 ### Testing ###
 Reportes
-
-# DB vars
-src/main/java/org/inventoryapp/SQL/DBvars.java
