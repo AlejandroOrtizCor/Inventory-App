@@ -1,5 +1,10 @@
 package org.inventoryapp.GUI;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import com.itextpdf.text.DocumentException;
 import com.toedter.calendar.JTextFieldDateEditor;
 import org.inventoryapp.Controllers.Reg.RegController;

@@ -1,5 +1,10 @@
 package org.inventoryapp.GUI;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import org.inventoryapp.Classes.User.User;
 import org.inventoryapp.Controllers.EditProduct.EditProductController;
 

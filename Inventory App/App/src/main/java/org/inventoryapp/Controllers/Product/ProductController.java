@@ -1,5 +1,10 @@
 package org.inventoryapp.Controllers.Product;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import org.inventoryapp.Classes.Product.Product;
 import org.inventoryapp.SQL.ConnectionSQL;
 

@@ -1,5 +1,10 @@
 package org.inventoryapp.GUI;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import com.itextpdf.text.DocumentException;
 import org.inventoryapp.Classes.User.User;
 import org.inventoryapp.Controllers.Users.UsersController;

@@ -1,5 +1,10 @@
 package org.inventoryapp.Controllers.Inventory;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.*;
 import org.apache.poi.ss.usermodel.*;

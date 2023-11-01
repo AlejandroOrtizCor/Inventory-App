@@ -1,5 +1,10 @@
 package org.inventoryapp.Controllers.AddProduct;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import org.inventoryapp.Classes.Movements.Movement;
 import org.inventoryapp.Classes.Product.Product;
 import org.inventoryapp.Classes.User.User;

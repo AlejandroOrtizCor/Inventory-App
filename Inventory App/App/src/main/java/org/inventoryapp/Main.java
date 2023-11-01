@@ -1,5 +1,10 @@
 package org.inventoryapp;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import org.inventoryapp.GUI.LoginGUI;
 
 public class Main {

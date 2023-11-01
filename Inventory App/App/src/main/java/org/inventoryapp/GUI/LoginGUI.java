@@ -1,5 +1,10 @@
 package org.inventoryapp.GUI;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import org.inventoryapp.Controllers.Login.LoginController;
 
 import javax.swing.*;

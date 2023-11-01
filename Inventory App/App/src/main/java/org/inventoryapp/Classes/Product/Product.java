@@ -1,5 +1,10 @@
 package org.inventoryapp.Classes.Product;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import java.time.LocalDateTime;
 
 public class Product {

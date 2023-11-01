@@ -1,5 +1,10 @@
 package org.inventoryapp.Controllers.RegUser;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import com.itextpdf.text.Document;
 import com.itextpdf.text.DocumentException;
 import com.itextpdf.text.Paragraph;

@@ -1,5 +1,10 @@
 package org.inventoryapp.Controllers.User;
 
+/**
+ * @author Alejandro Ortiz
+ * @project Inventory-App
+ */
+
 import org.inventoryapp.Classes.User.User;
 import org.inventoryapp.SQL.ConnectionSQL;
 
